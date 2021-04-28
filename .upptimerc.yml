@@ -9,6 +9,16 @@ sites:
     url: https://www.auktionshausamsee.de
   - name: Bilali Motoreninstandsetzung
     url: https://www.bilali-motoreninstandsetzung.de
+  - name: Carpoint Botnang
+    url: https://www.carpoint-botnang.de
+  - name: Finanzberatung Timo Strangfeld
+    url: https://www.finanzberatung-bw.de
+  - name: Hotel Waitz
+    url: https://www.hotel-waitz.de
+  - name: Hannah Crasser
+    url: https://www.kosmetik-ostfildern.de
+  - name: Zahnärzte Krauss
+    url: https://www.zahnaerzte-krauss.de
     
 status-website: 
   theme: light
