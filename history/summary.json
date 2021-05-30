@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1122,
-    "timeDay": 1196,
-    "timeWeek": 1245,
-    "timeMonth": 1119,
-    "timeYear": 1122,
+    "time": 1123,
+    "timeDay": 1361,
+    "timeWeek": 1249,
+    "timeMonth": 1116,
+    "timeYear": 1123,
     "dailyMinutesDown": {
       "2021-05-21": 18,
       "2021-05-04": 21
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 1241,
-    "timeDay": 1307,
-    "timeWeek": 1151,
-    "timeMonth": 1239,
-    "timeYear": 1241,
+    "time": 1240,
+    "timeDay": 1238,
+    "timeWeek": 1164,
+    "timeMonth": 1240,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2021-05-21": 18,
       "2021-05-04": 21
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 1005,
-    "timeDay": 1020,
-    "timeWeek": 979,
-    "timeMonth": 1008,
+    "timeDay": 964,
+    "timeWeek": 973,
+    "timeMonth": 1007,
     "timeYear": 1005,
     "dailyMinutesDown": {
       "2021-05-04": 21
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 518,
-    "timeDay": 577,
-    "timeWeek": 521,
-    "timeMonth": 520,
-    "timeYear": 518,
+    "time": 517,
+    "timeDay": 547,
+    "timeWeek": 520,
+    "timeMonth": 519,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2021-05-04": 21
     }
@@ -87,15 +87,15 @@
     "icon": "https://favicons.githubusercontent.com/www.finanzberatung-bw.de",
     "slug": "finanzberatung-timo-strangfeld",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 682,
-    "timeDay": 696,
-    "timeWeek": 691,
-    "timeMonth": 687,
+    "timeDay": 658,
+    "timeWeek": 695,
+    "timeMonth": 689,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2021-05-04": 21
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1005,
-    "timeDay": 1040,
-    "timeWeek": 994,
+    "time": 1004,
+    "timeDay": 972,
+    "timeWeek": 998,
     "timeMonth": 1006,
-    "timeYear": 1005,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2021-05-04": 20
     }
@@ -132,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1901,
-    "timeDay": 1765,
-    "timeWeek": 1776,
-    "timeMonth": 1889,
-    "timeYear": 1901,
+    "time": 1896,
+    "timeDay": 1422,
+    "timeWeek": 1774,
+    "timeMonth": 1881,
+    "timeYear": 1896,
     "dailyMinutesDown": {}
   },
   {
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1064,
-    "timeDay": 1085,
-    "timeWeek": 1091,
-    "timeMonth": 1065,
-    "timeYear": 1064,
+    "time": 1063,
+    "timeDay": 1016,
+    "timeWeek": 1093,
+    "timeMonth": 1064,
+    "timeYear": 1063,
     "dailyMinutesDown": {}
   }
 ]
