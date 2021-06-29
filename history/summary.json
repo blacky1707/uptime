@@ -55,7 +55,7 @@
     "time": 1022,
     "timeDay": 1164,
     "timeWeek": 1040,
-    "timeMonth": 1040,
+    "timeMonth": 1039,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2021-05-04": 21
@@ -75,7 +75,7 @@
     "time": 518,
     "timeDay": 552,
     "timeWeek": 518,
-    "timeMonth": 520,
+    "timeMonth": 518,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2021-05-04": 21
@@ -115,7 +115,7 @@
     "time": 1014,
     "timeDay": 1129,
     "timeWeek": 1020,
-    "timeMonth": 1025,
+    "timeMonth": 1023,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2021-05-04": 20
@@ -135,7 +135,7 @@
     "time": 1982,
     "timeDay": 2074,
     "timeWeek": 2444,
-    "timeMonth": 2061,
+    "timeMonth": 2065,
     "timeYear": 1982,
     "dailyMinutesDown": {}
   },
