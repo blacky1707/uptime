@@ -108,9 +108,9 @@
     "slug": "hotel-waitz",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "23.88%",
-    "uptimeWeek": "89.13%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "22.96%",
+    "uptimeWeek": "88.99%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "99.50%",
     "time": 1072,
     "timeDay": 1198,
@@ -118,7 +118,7 @@
     "timeMonth": 1111,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2021-10-04": 675,
+      "2021-10-04": 688,
       "2021-10-03": 421,
       "2021-07-12": 22,
       "2021-05-04": 20
