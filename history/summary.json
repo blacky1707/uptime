@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1245,
-    "timeDay": 1426,
-    "timeWeek": 1272,
-    "timeMonth": 1295,
+    "timeDay": 1361,
+    "timeWeek": 1271,
+    "timeMonth": 1292,
     "timeYear": 1245,
     "dailyMinutesDown": {
       "2021-05-21": 18,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1110,
+    "time": 1109,
     "timeDay": 923,
     "timeWeek": 1020,
-    "timeMonth": 1072,
-    "timeYear": 1110,
+    "timeMonth": 1069,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2021-05-21": 18,
       "2021-05-04": 21
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1085,
-    "timeDay": 987,
+    "timeDay": 1002,
     "timeWeek": 1136,
-    "timeMonth": 1131,
+    "timeMonth": 1129,
     "timeYear": 1085,
     "dailyMinutesDown": {
       "2021-05-04": 21
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 561,
-    "timeDay": 559,
-    "timeWeek": 567,
-    "timeMonth": 569,
+    "timeDay": 562,
+    "timeWeek": 568,
+    "timeMonth": 568,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2021-05-04": 21
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 742,
-    "timeDay": 704,
+    "timeDay": 705,
     "timeWeek": 742,
-    "timeMonth": 721,
+    "timeMonth": 720,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2021-05-04": 21
@@ -107,18 +107,18 @@
     "icon": "https://favicons.githubusercontent.com/www.hotel-waitz.de",
     "slug": "hotel-waitz",
     "status": "down",
-    "uptime": "66.10%",
+    "uptime": "66.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.10%",
+    "uptimeYear": "66.09%",
     "time": 1089,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2021-12-23": 892,
+      "2021-12-23": 920,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
@@ -216,9 +216,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1951,
-    "timeDay": 1933,
-    "timeWeek": 2047,
-    "timeMonth": 2009,
+    "timeDay": 1888,
+    "timeWeek": 2041,
+    "timeMonth": 2007,
     "timeYear": 1951,
     "dailyMinutesDown": {
       "2021-07-12": 22
@@ -236,9 +236,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1161,
-    "timeDay": 1194,
-    "timeWeek": 1220,
-    "timeMonth": 1199,
+    "timeDay": 1189,
+    "timeWeek": 1222,
+    "timeMonth": 1197,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2021-07-12": 21
