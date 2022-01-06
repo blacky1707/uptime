@@ -6,9 +6,9 @@
     "slug": "wsmm",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 1253,
     "timeDay": 1614,
@@ -16,7 +16,7 @@
     "timeMonth": 1340,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2022-01-06": 36,
+      "2022-01-06": 47,
       "2021-05-21": 18,
       "2021-05-04": 21
     }
@@ -28,9 +28,9 @@
     "slug": "auktionshaus-am-see",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 1104,
     "timeDay": 921,
@@ -38,7 +38,7 @@
     "timeMonth": 1054,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2022-01-06": 36,
+      "2022-01-06": 47,
       "2021-05-21": 18,
       "2021-05-04": 21
     }
@@ -50,9 +50,9 @@
     "slug": "bilali-motoreninstandsetzung",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 1085,
     "timeDay": 1104,
@@ -60,7 +60,7 @@
     "timeMonth": 1118,
     "timeYear": 1085,
     "dailyMinutesDown": {
-      "2022-01-06": 36,
+      "2022-01-06": 47,
       "2021-05-04": 21
     }
   },
@@ -71,9 +71,9 @@
     "slug": "carpoint-botnang",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 560,
     "timeDay": 561,
@@ -81,7 +81,7 @@
     "timeMonth": 555,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2022-01-06": 36,
+      "2022-01-06": 48,
       "2021-05-04": 21
     }
   },
@@ -92,9 +92,9 @@
     "slug": "finanzberatung-timo-strangfeld",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 741,
     "timeDay": 703,
@@ -102,7 +102,7 @@
     "timeMonth": 722,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2022-01-06": 36,
+      "2022-01-06": 48,
       "2021-05-04": 21
     }
   },
@@ -113,9 +113,9 @@
     "slug": "hannah-crasser",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 1948,
     "timeDay": 1663,
@@ -123,7 +123,7 @@
     "timeMonth": 1916,
     "timeYear": 1948,
     "dailyMinutesDown": {
-      "2022-01-06": 36,
+      "2022-01-06": 48,
       "2021-07-12": 22
     }
   },
@@ -134,9 +134,9 @@
     "slug": "zahnaerzte-krauss",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 1162,
     "timeDay": 1127,
@@ -144,7 +144,7 @@
     "timeMonth": 1188,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2022-01-06": 36,
+      "2022-01-06": 48,
       "2021-07-12": 21
     }
   }
