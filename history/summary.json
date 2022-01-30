@@ -140,9 +140,9 @@
     "slug": "zahnaerzte-krauss",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.89%",
     "time": 1163,
     "timeDay": 1186,
@@ -150,7 +150,6 @@
     "timeMonth": 1171,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2022-01-30": 5,
       "2022-01-07": 377,
       "2022-01-06": 53,
       "2021-07-12": 21
