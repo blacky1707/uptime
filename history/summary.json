@@ -111,10 +111,10 @@
     "icon": "https://favicons.githubusercontent.com/www.kosmetik-ostfildern.de",
     "slug": "hannah-crasser",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "38.75%",
-    "uptimeWeek": "91.25%",
-    "uptimeMonth": "97.99%",
+    "uptime": "99.81%",
+    "uptimeDay": "37.17%",
+    "uptimeWeek": "91.02%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "99.75%",
     "time": 1941,
     "timeDay": 1438,
@@ -122,7 +122,7 @@
     "timeMonth": 1604,
     "timeYear": 1942,
     "dailyMinutesDown": {
-      "2022-09-18": 679,
+      "2022-09-18": 701,
       "2022-09-17": 204,
       "2022-01-07": 377,
       "2022-01-06": 53
