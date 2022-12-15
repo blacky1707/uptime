@@ -17,6 +17,8 @@ sites:
     url: https://www.kosmetik-ostfildern.de
   - name: Zahnärzte Krauss
     url: https://www.zahnaerzte-krauss.de
+  - name: Parfümerie Albrecht
+    url: https://www.pal1732.de
     
 status-website: 
   theme: light
