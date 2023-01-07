@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 1477,
-    "timeDay": 1416,
-    "timeWeek": 1560,
+    "timeDay": 1360,
+    "timeWeek": 1556,
     "timeMonth": 1416,
     "timeYear": 1483,
     "dailyMinutesDown": {
       "2022-10-24": 19,
-      "2022-04-21": 17,
-      "2022-01-07": 376
+      "2022-04-21": 17
     }
   },
   {
@@ -31,15 +30,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 1078,
-    "timeDay": 1073,
-    "timeWeek": 1064,
-    "timeMonth": 1025,
+    "timeDay": 1069,
+    "timeWeek": 1056,
+    "timeMonth": 1022,
     "timeYear": 1081,
-    "dailyMinutesDown": {
-      "2022-01-07": 376
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bilali Motoreninstandsetzung",
@@ -51,15 +48,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 1245,
-    "timeDay": 1164,
-    "timeWeek": 1280,
+    "timeDay": 1155,
+    "timeWeek": 1284,
     "timeMonth": 1212,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2022-10-24": 19,
-      "2022-01-07": 376
+      "2022-10-24": 19
     }
   },
   {
@@ -72,15 +68,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 555,
-    "timeDay": 525,
-    "timeWeek": 563,
+    "timeDay": 523,
+    "timeWeek": 564,
     "timeMonth": 533,
     "timeYear": 554,
-    "dailyMinutesDown": {
-      "2022-01-07": 376
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Finanzberatung Timo Strangfeld",
@@ -92,15 +86,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 935,
-    "timeDay": 887,
-    "timeWeek": 993,
+    "timeDay": 884,
+    "timeWeek": 995,
     "timeMonth": 944,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2022-10-24": 19,
-      "2022-01-07": 377
+      "2022-10-24": 19
     }
   },
   {
@@ -113,18 +106,17 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
-    "time": 1844,
-    "timeDay": 1656,
-    "timeWeek": 1789,
-    "timeMonth": 1584,
+    "uptimeYear": "99.50%",
+    "time": 1843,
+    "timeDay": 1620,
+    "timeWeek": 1785,
+    "timeMonth": 1583,
     "timeYear": 1838,
     "dailyMinutesDown": {
       "2022-10-24": 19,
       "2022-09-19": 660,
       "2022-09-18": 1440,
-      "2022-09-17": 204,
-      "2022-01-07": 377
+      "2022-09-17": 204
     }
   },
   {
@@ -137,16 +129,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 1492,
-    "timeDay": 1403,
-    "timeWeek": 1619,
-    "timeMonth": 1556,
+    "timeDay": 1412,
+    "timeWeek": 1620,
+    "timeMonth": 1555,
     "timeYear": 1509,
     "dailyMinutesDown": {
       "2022-10-24": 19,
-      "2022-04-22": 15,
-      "2022-01-07": 377
+      "2022-04-22": 15
     }
   },
   {
@@ -160,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1655,
-    "timeDay": 1554,
-    "timeWeek": 1666,
-    "timeMonth": 1655,
-    "timeYear": 1655,
+    "time": 1654,
+    "timeDay": 1549,
+    "timeWeek": 1670,
+    "timeMonth": 1654,
+    "timeYear": 1654,
     "dailyMinutesDown": {}
   }
 ]
