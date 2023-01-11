@@ -65,7 +65,7 @@
     "slug": "carpoint-botnang",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 535,
     "timeMonth": 535,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-11": 0
+    }
   },
   {
     "name": "Finanzberatung Timo Strangfeld",
@@ -83,7 +85,7 @@
     "slug": "finanzberatung-timo-strangfeld",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,6 +95,7 @@
     "timeMonth": 949,
     "timeYear": 950,
     "dailyMinutesDown": {
+      "2023-01-11": 0,
       "2022-10-24": 19
     }
   },
@@ -103,7 +106,7 @@
     "slug": "hannah-crasser",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
@@ -113,6 +116,7 @@
     "timeMonth": 1590,
     "timeYear": 1832,
     "dailyMinutesDown": {
+      "2023-01-11": 0,
       "2022-10-24": 19,
       "2022-09-19": 660,
       "2022-09-18": 1440,
