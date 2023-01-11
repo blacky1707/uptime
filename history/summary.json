@@ -6,9 +6,9 @@
     "slug": "wsmm",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1479,
     "timeDay": 1471,
@@ -16,6 +16,7 @@
     "timeMonth": 1433,
     "timeYear": 1487,
     "dailyMinutesDown": {
+      "2023-01-11": 14,
       "2022-10-24": 19,
       "2022-04-21": 17
     }
@@ -27,16 +28,18 @@
     "slug": "auktionshaus-am-see",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1077,
     "timeDay": 1093,
     "timeWeek": 1026,
     "timeMonth": 1015,
     "timeYear": 1081,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-11": 15
+    }
   },
   {
     "name": "Bilali Motoreninstandsetzung",
@@ -45,16 +48,17 @@
     "slug": "bilali-motoreninstandsetzung",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1246,
     "timeDay": 1259,
     "timeWeek": 1234,
     "timeMonth": 1224,
     "timeYear": 1255,
     "dailyMinutesDown": {
+      "2023-01-11": 15,
       "2022-10-24": 19
     }
   },
@@ -65,9 +69,9 @@
     "slug": "carpoint-botnang",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 554,
     "timeDay": 518,
@@ -75,7 +79,7 @@
     "timeMonth": 535,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2023-01-11": 0
+      "2023-01-11": 15
     }
   },
   {
@@ -85,17 +89,17 @@
     "slug": "finanzberatung-timo-strangfeld",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 937,
     "timeDay": 971,
     "timeWeek": 917,
     "timeMonth": 949,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2023-01-11": 0,
+      "2023-01-11": 15,
       "2022-10-24": 19
     }
   },
@@ -106,9 +110,9 @@
     "slug": "hannah-crasser",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.56%",
     "time": 1837,
     "timeDay": 1830,
@@ -116,7 +120,7 @@
     "timeMonth": 1590,
     "timeYear": 1832,
     "dailyMinutesDown": {
-      "2023-01-11": 0,
+      "2023-01-11": 15,
       "2022-10-24": 19,
       "2022-09-19": 660,
       "2022-09-18": 1440,
@@ -129,10 +133,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zahnaerzte-krauss.de.ico",
     "slug": "zahnaerzte-krauss",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1496,
     "timeDay": 1523,
@@ -140,6 +144,7 @@
     "timeMonth": 1559,
     "timeYear": 1514,
     "dailyMinutesDown": {
+      "2023-01-11": 15,
       "2022-10-24": 19,
       "2022-04-22": 15
     }
@@ -150,16 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pal1732.de.ico",
     "slug": "parfuemerie-albrecht",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1651,
     "timeDay": 1698,
     "timeWeek": 1624,
     "timeMonth": 1651,
     "timeYear": 1651,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-11": 15
+    }
   }
 ]
