@@ -17,6 +17,12 @@ sites:
     url: https://www.zahnaerzte-krauss.de
   - name: Parfümerie Albrecht
     url: https://www.pal1732.de
+  - name: WSMM Bitbucket
+    url: https://scm.wsmm.de
+  - name: WSMM Jira
+    url: https://bugs.wsmm.de
+  - name: WSMM CI
+    url: https://ci.wsmm.de
     
 status-website: 
   theme: light
