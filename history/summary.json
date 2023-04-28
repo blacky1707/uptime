@@ -294,18 +294,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ci.wsmm.de.ico",
     "slug": "wsmm-ci",
     "status": "down",
-    "uptime": "2.01%",
-    "uptimeDay": "2.01%",
-    "uptimeWeek": "2.01%",
-    "uptimeMonth": "2.01%",
-    "uptimeYear": "2.01%",
+    "uptime": "0.89%",
+    "uptimeDay": "0.89%",
+    "uptimeWeek": "0.89%",
+    "uptimeMonth": "0.89%",
+    "uptimeYear": "0.89%",
     "time": 441,
     "timeDay": 441,
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2023-04-28": 1
+      "2023-04-28": 2
     }
   }
 ]
