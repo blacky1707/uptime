@@ -275,19 +275,17 @@
     "url": "https://bugs.wsmm.de",
     "icon": "https://icons.duckduckgo.com/ip3/bugs.wsmm.de.ico",
     "slug": "wsmm-jira",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 842,
-    "timeWeek": 773,
-    "timeMonth": 752,
-    "timeYear": 756,
-    "dailyMinutesDown": {
-      "2023-06-18": 2
-    }
+    "time": 757,
+    "timeDay": 888,
+    "timeWeek": 782,
+    "timeMonth": 754,
+    "timeYear": 757,
+    "dailyMinutesDown": {}
   }
 ]
