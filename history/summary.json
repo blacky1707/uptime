@@ -259,8 +259,8 @@
     "slug": "wsmm-bitbucket",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 814,
@@ -269,7 +269,7 @@
     "timeMonth": 814,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2023-07-08": 12
+      "2023-07-08": 15
     }
   },
   {
@@ -278,18 +278,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bugs.wsmm.de.ico",
     "slug": "wsmm-jira",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 752,
     "timeDay": 726,
     "timeWeek": 728,
     "timeMonth": 750,
     "timeYear": 752,
-    "dailyMinutesDown": {
-      "2023-07-08": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
