@@ -258,18 +258,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/scm.wsmm.de.ico",
     "slug": "wsmm-bitbucket",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "90.83%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.86%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.86%",
     "time": 814,
     "timeDay": 815,
     "timeWeek": 802,
     "timeMonth": 814,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2023-07-08": 132
+      "2023-07-08": 145
     }
   },
   {
