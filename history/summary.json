@@ -260,12 +260,12 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.51%",
+    "uptimeWeek": "98.66%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.87%",
     "time": 812,
     "timeDay": 865,
-    "timeWeek": 786,
+    "timeWeek": 789,
     "timeMonth": 806,
     "timeYear": 812,
     "dailyMinutesDown": {
@@ -285,7 +285,7 @@
     "uptimeYear": "100.00%",
     "time": 749,
     "timeDay": 788,
-    "timeWeek": 708,
+    "timeWeek": 711,
     "timeMonth": 739,
     "timeYear": 749,
     "dailyMinutesDown": {}
