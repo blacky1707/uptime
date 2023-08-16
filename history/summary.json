@@ -120,7 +120,7 @@
     "time": 952,
     "timeDay": 1271,
     "timeWeek": 1312,
-    "timeMonth": 1252,
+    "timeMonth": 1254,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2023-04-02": 33,
@@ -156,7 +156,7 @@
     "time": 1724,
     "timeDay": 1956,
     "timeWeek": 1743,
-    "timeMonth": 1817,
+    "timeMonth": 1819,
     "timeYear": 1727,
     "dailyMinutesDown": {
       "2023-04-02": 33,
@@ -195,7 +195,7 @@
     "time": 1577,
     "timeDay": 1412,
     "timeWeek": 1453,
-    "timeMonth": 1716,
+    "timeMonth": 1718,
     "timeYear": 1578,
     "dailyMinutesDown": {
       "2023-04-02": 33,
@@ -231,7 +231,7 @@
     "time": 1695,
     "timeDay": 1736,
     "timeWeek": 1769,
-    "timeMonth": 1736,
+    "timeMonth": 1737,
     "timeYear": 1695,
     "dailyMinutesDown": {
       "2023-04-02": 33,
@@ -266,7 +266,7 @@
     "time": 810,
     "timeDay": 850,
     "timeWeek": 811,
-    "timeMonth": 805,
+    "timeMonth": 806,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-07-08": 150
@@ -278,18 +278,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bugs.wsmm.de.ico",
     "slug": "wsmm-jira",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "69.95%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.72%",
+    "uptimeDay": "68.91%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.72%",
     "time": 749,
     "timeDay": 780,
     "timeWeek": 739,
-    "timeMonth": 749,
+    "timeMonth": 750,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2023-08-16": 158,
+      "2023-08-16": 173,
       "2023-08-15": 275
     }
   }
