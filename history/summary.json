@@ -281,7 +281,7 @@
     "uptime": "80.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.37%",
+    "uptimeMonth": "12.34%",
     "uptimeYear": "80.39%",
     "time": 750,
     "timeDay": 805,
@@ -289,7 +289,7 @@
     "timeMonth": 755,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2023-09-11": 673,
+      "2023-09-11": 685,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
