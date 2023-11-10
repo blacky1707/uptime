@@ -258,7 +258,7 @@
     "time": 819,
     "timeDay": 708,
     "timeWeek": 927,
-    "timeMonth": 859,
+    "timeMonth": 863,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2023-07-08": 150
@@ -270,15 +270,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bugs.wsmm.de.ico",
     "slug": "wsmm-jira",
     "status": "up",
-    "uptime": "72.61%",
+    "uptime": "72.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.61%",
+    "uptimeYear": "72.62%",
     "time": 751,
     "timeDay": 658,
     "timeWeek": 716,
-    "timeMonth": 740,
+    "timeMonth": 739,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2023-10-08": 823,
