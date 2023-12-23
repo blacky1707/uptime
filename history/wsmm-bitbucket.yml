@@ -1,7 +1,7 @@
 url: https://scm.wsmm.de
-status: up
-code: 200
-responseTime: 582
-lastUpdated: 2023-12-23T16:12:08.005Z
+status: down
+code: 503
+responseTime: 704
+lastUpdated: 2023-12-23T18:31:18.377Z
 startTime: 2023-04-28T11:48:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
