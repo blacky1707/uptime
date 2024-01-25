@@ -1,7 +1,7 @@
 url: https://bugs.wsmm.de
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2024-01-25T16:10:44.927Z
+status: down
+code: 503
+responseTime: 1488
+lastUpdated: 2024-01-25T17:41:07.301Z
 startTime: 2023-04-28T11:48:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
