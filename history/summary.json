@@ -16,7 +16,7 @@
     "timeMonth": 607,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2024-02-02": 444,
+      "2024-02-02": 457,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -69,9 +69,9 @@
     "slug": "auktionshaus-am-see",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "79.16%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "78.32%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.93%",
     "time": 1021,
     "timeDay": 957,
@@ -79,7 +79,7 @@
     "timeMonth": 955,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2024-02-02": 300,
+      "2024-02-02": 312,
       "2023-12-23": 17,
       "2023-11-16": 15,
       "2023-04-02": 33
@@ -92,9 +92,9 @@
     "slug": "bilali-motoreninstandsetzung",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "79.26%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "78.41%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.93%",
     "time": 1153,
     "timeDay": 974,
@@ -102,7 +102,7 @@
     "timeMonth": 997,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2024-02-02": 299,
+      "2024-02-02": 311,
       "2023-12-23": 17,
       "2023-04-02": 33
     }
@@ -114,9 +114,9 @@
     "slug": "finanzberatung-timo-strangfeld",
     "status": "up",
     "uptime": "97.82%",
-    "uptimeDay": "79.35%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "78.51%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "97.74%",
     "time": 1092,
     "timeDay": 878,
@@ -124,7 +124,7 @@
     "timeMonth": 883,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2024-02-02": 297,
+      "2024-02-02": 310,
       "2023-12-23": 532,
       "2023-12-31": 941,
       "2023-12-30": 1440,
@@ -144,9 +144,9 @@
     "slug": "hannah-crasser",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "79.44%",
-    "uptimeWeek": "97.06%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "78.60%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.93%",
     "time": 1767,
     "timeDay": 1120,
@@ -154,7 +154,7 @@
     "timeMonth": 1103,
     "timeYear": 1771,
     "dailyMinutesDown": {
-      "2024-02-02": 296,
+      "2024-02-02": 308,
       "2023-12-23": 43,
       "2023-04-02": 33
     }
@@ -166,9 +166,9 @@
     "slug": "zahnaerzte-krauss",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "79.53%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "78.69%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.93%",
     "time": 1504,
     "timeDay": 1033,
@@ -176,7 +176,7 @@
     "timeMonth": 1150,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2024-02-02": 295,
+      "2024-02-02": 307,
       "2023-12-23": 17,
       "2023-04-02": 33
     }
@@ -211,7 +211,7 @@
     "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.59%",
+    "uptimeMonth": "89.62%",
     "uptimeYear": "98.23%",
     "time": 820,
     "timeDay": 834,
